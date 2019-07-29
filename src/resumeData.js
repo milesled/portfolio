@@ -1,9 +1,9 @@
 let resumeData = {
-  name: "Jane Doe",
+  name: "Evan Feenstra",
   role: "Frontend Web Developer",
   linkedinId:"evanfeenstra",
   skypeid: "Your skypeid",
-  roleDescription: "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
+  roleDescription: "asdf  blah blahI like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
   socialLinks:[
       {
         name:"linkedin",
@@ -41,8 +41,8 @@ let resumeData = {
   ],
   work:[
     {
-      CompanyName:"Some Company",
-      specialization:"Some specialization",
+      CompanyName:"UW ",
+      specialization:"Instructor",
       MonthOfLeaving:"Jan",
       YearOfLeaving:"2018",
       Achievements:"Some Achievements"
@@ -76,13 +76,13 @@ let resumeData = {
       description:"mobileapp",
       imgurl:"images/portfolio/phone.jpg",
       title:"Phone App",
-      githubLink:"https://github.com",
-      fullDescription:"this is a longer description about this app"
+      githubLink:"https://github.com/Evanfeenstra/chatter",
+      fullDescription:"this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app "
     },
     {
       name:"project2",
       description:"mobileapp",
-      imgurl:"images/portfolio/project.jpg",
+      imgurl:"images/portfolio/weatherer.png",
       title:"Something",
       githubLink:"https://github.com",
       fullDescription:"this is a longer description about this app"
