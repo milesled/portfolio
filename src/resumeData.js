@@ -80,7 +80,7 @@ let resumeData = {
       fullDescription:"this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app this is a longer description about this app "
     },
     {
-      name:"project2",
+      name:"asdfasdfasf",
       description:"mobileapp",
       imgurl:"images/portfolio/weatherer.png",
       title:"Something",

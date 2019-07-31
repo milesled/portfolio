@@ -120,9 +120,8 @@ header .scrolldown a:hover { color: #11ABB0; }
 --------------------------------------------------------------------- */
 #nav-wrap ul, #nav-wrap li, #nav-wrap a {
 	 margin: 0;
-	 padding: 0;
 	 border: none;
-	 outline: none;
+    outline: none;
 }
 
 /* nav-wrap */

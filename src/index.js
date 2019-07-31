@@ -6,7 +6,7 @@ import App from './App';
 ReactDOM.render(<App />, document.getElementById('root'));
 
 
-
+// media-queries.css line 150 take away the "display:none"
 
 
 
