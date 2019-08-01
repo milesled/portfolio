@@ -1,18 +1,18 @@
 let resumeData = {
-  name: "Evan Feenstra",
-  role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
-  skypeid: "Your skypeid",
-  roleDescription: "asdf  blah blahI like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
+  name: "Miles Lederman",
+  role: "Aspiring UX Designer",
+  linkedinId:"miles-lederman",
+  skypeid: "TBA",
+  roleDescription: "I enjoy the idea of making designs more accessible to wider user bases and changing the world one thing at a time.",
   socialLinks:[
       {
         name:"linkedin",
-        url:"https://www.linkedin.com/in/evanfeenstra",
+        url:"https://www.linkedin.com/in/miles-lederman",
         className:"fa fa-linkedin"
       },
       {
         name:"github",
-        url:"http://github.com/",
+        url:"http://github.com/milesled",
         className:"fa fa-github"
       },
       {
