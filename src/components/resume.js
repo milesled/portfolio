@@ -13,7 +13,7 @@ export default class Resume extends Component {
 
         
         <Document
-          file="Lederman-Internship-Resume"
+          file="Lederman-Internship-Resume.pdf"
         >
           <Page pageNumber={1} />
         </Document>

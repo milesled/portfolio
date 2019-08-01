@@ -21,23 +21,16 @@ let resumeData = {
         className:"fa fa-skype"
       }
     ],
-  aboutme:"I have finished my B.S. in Human Centered Design and Engineering, and am currently seeking a Web Development position.",
+  aboutme:"I hope to study Human Centered Design and Engineering at the University of Washington. My ultimate goal is to become a UX designer.",
   address:"Seattle, Washington",
   education:[
     {
       UniversityName:"University of Washington",
-      specialization:"Some specialization",
+      //specialization:"Some specialization",
       MonthOfPassing:"June",
-      YearOfPassing:"2019",
+      YearOfPassing:"2022",
       Achievements:"Some Achievements"
     },
-    {
-      UniversityName:"Some University",
-      specialization:"Some specialization",
-      MonthOfPassing:"Jan",
-      YearOfPassing:"2018",
-      Achievements:"Some Achievements"
-    }
   ],
   work:[
     {
