@@ -11,12 +11,13 @@ export default class Resume extends Component {
     return (
       <section id="resume">
 
+        
         <Document
-          file="Feenstra-Resume.pdf"
+          file="Lederman-Internship-Resume"
         >
           <Page pageNumber={1} />
         </Document>
-
+        
         {/* <div className="row education">
 
           <div className="three columns header-col">
